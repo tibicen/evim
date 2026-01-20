@@ -1,0 +1,1 @@
+import{b as u,u as o,H as _,h as t,v as g,C as p,x as a,y as l,z as d,i as v}from"./DvIVPmtc.js";function E(n,r){let s=null,y=t;var i;if(t){s=v;for(var e=g(document.head);e!==null&&(e.nodeType!==p||e.data!==n);)e=a(e);if(e===null)l(!1);else{var f=a(e);e.remove(),d(f)}}t||(i=document.head.appendChild(u()));try{o(()=>r(i),_)}finally{y&&(l(!0),d(s))}}export{E as h};
