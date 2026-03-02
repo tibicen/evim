@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://evim.pl/</loc>
+    <loc>https://evim.presta.pl/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://evim.pl/projekty</loc>
+    <loc>https://evim.presta.pl/projekty</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://evim.pl/przetargi</loc>
+    <loc>https://evim.presta.pl/przetargi</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://evim.pl/dofinansowania</loc>
+    <loc>https://evim.presta.pl/dofinansowania</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://evim.pl/rodo</loc>
+    <loc>https://evim.presta.pl/rodo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

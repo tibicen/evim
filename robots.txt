@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://evim.pl/sitemap.xml
+Sitemap: https://evim.presta.pl/sitemap.xml
