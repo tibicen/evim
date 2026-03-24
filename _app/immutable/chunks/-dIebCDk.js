@@ -1,0 +1,1 @@
+import{y as o,h as i,i as c,a0 as d,A as y,B as E,D as T,u as b,E as _}from"./CeLumM8g.js";import{B as p}from"./Bc8TJTbR.js";function m(t,f,u=!1){i&&c();var e=new p(t),h=u?d:0;function n(a,r){if(i){const l=y(t)===E;if(a===l){var s=T();b(s),e.anchor=s,_(!1),e.ensure(a,r),_(!0);return}}e.ensure(a,r)}o(()=>{var a=!1;f((r,s=!0)=>{a=!0,n(s,r)}),a||n(!1,null)},h)}export{m as i};

@@ -1,0 +1,1 @@
+import{x as u,y as o,a9 as _,h as t,w as g,C as m,m as l,E as i,u as d,l as p}from"./CeLumM8g.js";function v(n,r){let s=null,y=t;var a;if(t){s=p;for(var e=g(document.head);e!==null&&(e.nodeType!==m||e.data!==n);)e=l(e);if(e===null)i(!1);else{var f=l(e);e.remove(),d(f)}}t||(a=document.head.appendChild(u()));try{o(()=>r(a),_)}finally{y&&(i(!0),d(s))}}export{v as h};

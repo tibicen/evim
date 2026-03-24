@@ -1,19 +1,23 @@
 {
   "title": "Dostawa magazynu energii z osprzętem (Kozice 2)",
   "date": "2026-03-09",
-  "status": "Otwarty",
+  "status": "Rozstrzygnięty",
   "files": [
     {
-      "name": "Ogłoszenie o przetagu",
+      "name": "2026.03.09 Ogłoszenie o przetagu",
       "url": "/przetargi/EVIM_Ogłoszenie_o_przetargu_wraz_z_załącznikami_nr_1_3_dostawa_magazynu_energii_Kozice_2_09_03_2026.pdf"
     },
     {
-      "name": "Aktualizacja z 12.03.2026 r.",
+      "name": "2026.03.12 Aktualizacja",
       "url": "/przetargi/EVIM_Aktualizacja_Ogłoszenie_o_przetargu_wraz_z_załącznikami_12_03_2026.pdf"
     },
     {
-      "name": "Wyjaśnienie zamawiającego z 12.03.2026",
+      "name": "2026.03.12 Wyjaśnienie zamawiającego",
       "url": "/przetargi/Wyjaśnienia_Zamawiajacego_z_12_03_2026_ME_Kozice_2.pdf"
+    },
+    {
+      "name": "2026.03.24 Wybór oferty",
+      "url": "/przetargi/Informacja_o_wyborze_oferty_Dostawa_magazynu_energii_z_osprzetem_Kozice_2_24_03_2026.pdf"
     }
   ],
   "metadata": [
